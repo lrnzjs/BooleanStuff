@@ -1,0 +1,77 @@
+body{
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Arial, sans-serif;;
+}
+
+.container{
+	width: 	65%;
+	height: 800px;
+	margin: auto;
+	margin-top: 30px;
+	background: rgba(0, 0, 0, 0.4);
+	border-radius: 15px;
+	color: white;
+
+}
+
+header,h3{
+	text-align: center;
+	color: rgb(0, 221, 1);
+	margin-bottom: 0px;
+	font-size: xx-large;
+	
+	}
+
+img{
+	width: 23%;
+	padding-top: 100px;
+	margin-bottom: -28px;
+
+}
+nav{
+	background: rgb(0, 221, 1);
+	margin-right: 10%;
+	margin-left: 10%;
+	padding:  5px;
+	text-align: center;
+}
+
+main{
+	margin-left: 10%;
+}
+
+.monopattino{
+	font-weight: bold;
+	font-size: x-large;
+}
+
+.battery1{
+	width: 30%;
+	height: 30px;
+	background: rgb(240, 177, 82);
+	border-radius: 6px;
+}
+
+.battery2{
+	width: 60%;
+	height: 30px;
+	background: rgb(29, 195, 30);
+	border-radius: 6px;
+}
+
+.battery3{
+	width: 15%;
+	height: 30px;
+	background: rgb(190, 65, 65);
+	border-radius: 6px;
+}
+
+p{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: larger;
+}
+
+
